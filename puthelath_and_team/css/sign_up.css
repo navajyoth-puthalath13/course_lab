@@ -1,0 +1,189 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    height: 155px;
+    /* left: -36px; */
+    /* top: -23px; */
+    background: #03A59B;
+}
+.h1{
+    margin-top: -79px;
+    /* DISPLAY: inline-block; */
+    MARGIN-LEFT: 195PX;
+    width: 766px;
+    height: 137px;
+    left: 65px;
+    top: 450px;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 56px;
+    letter-spacing: -0.065em;
+    color: #FFFFFF;
+}
+img{
+    PADDING-LEFT: 24PX;
+    PADDING-TOP: 18PX;
+
+background: url(image.png);
+border-radius: 11px;
+}
+.loginbox{
+    position: absolute;
+    width: 661px;
+    height: 394px;
+    left: 315px;
+    top: 250px;
+    background: #03A59B;
+    border-radius: 53px;
+    
+}
+.name1{
+    position: absolute;
+
+    left: 181px;
+    top: 116px;
+}
+/* .l12{
+    position: absolute;
+    top: 115px;
+    left: 242px;
+}
+ */
+.login123{
+    position: absolute;
+    width: 154px;
+    height: 41px;
+    left: 238px;
+    top: 331px;
+    background: #64D3CD;
+    border-radius: 20px;
+}
+
+.contact{
+    padding:10px;
+    background: #D9D9D9;
+
+}
+.nameof{
+    height: 0px;
+    width: 0px;
+    position: absolute;
+    left: 4 0px;
+}
+form input{
+    width: 325px;
+    height: 40px;
+    left: 553px;
+    top: 427px;
+    background: #D9D9D9;
+    border-radius: 9px;
+}
+input[name="id" i] {
+    position: absolute;
+    width: 325px;
+    height: 40px;
+    left: 157px;
+    top: 35px;
+    background: #D9D9D9;
+    border-radius: 9px;
+}
+
+
+input[name="email" i] {
+    position: absolute;
+    width: 325px;
+    height: 40px;
+    left: 157px;
+    top: 114px;
+    background: #D9D9D9;
+    border-radius: 9px;
+}
+
+
+.sem{
+    position: absolute;
+    width: 325px;
+    height: 40px;
+    left: 157px;
+    top: 199px;
+    background: #D9D9D9;
+    border-radius: 9px;
+}
+
+
+input[name="pass2" i] {
+    position: absolute;
+    width: 325px;
+    height: 40px;
+    left: 157px;
+    top: 280px;
+    background: #D9D9D9;
+    border-radius: 9px;
+}
+
+input[type="text"]::placeholder{
+    text-align: center;
+}
+input[type="password"]::placeholder{
+    text-align: center;
+}
+.loginbutton{
+    position: absolute;
+    width: 161px;
+    height: 48px;
+    left: 1093px;
+    top: 169px;
+}
+.loginbutton{
+    position: absolute;
+    width: 161px;
+    height: 38px;
+    left: 1093px;
+    top: 5px;
+    background: #03A59B;
+    border-radius: 18px;
+}
+.lobu{
+    position: absolute;
+width: 139.4px;
+height: 48px;
+left: 11.8px;
+    top: -9px;
+
+font-family: 'Ruda';
+font-style: normal;
+font-weight: 400;
+font-size: 29px;
+line-height: 56px;
+/* or 191% */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.065em;
+
+color: #000000;
+}.button{
+    height: 38.08px;
+    width: 125px;
+    background: #03A59B;
+    border-radius: 18px;
+    padding:10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+}
+.lo{
+    
+  
+    margin-top: -4px;
+    /* DISPLAY: inline-block; */
+    MARGIN-LEFT: 8PX;
+
+}
+
