@@ -12,5 +12,4 @@ CLAB is an innovative learning platform designed to offer users an immersive and
 - **Immersive Learning Experience:** Dive into interactive multimedia less
 
 
-A brief description of what this project does and who it's for
 
